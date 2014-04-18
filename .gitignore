@@ -1,0 +1,12 @@
+nbproject
+.idea
+.build/html
+.build/doctrees
+.project
+.settings/
+tmp/
+.DS_Store
+composer.lock
+.*.sw*
+.*.un~
+*.pyc
